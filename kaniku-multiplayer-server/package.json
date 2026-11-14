@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.18.0"},"description":"Server WebSocket multiplayer untuk game KANIKU — pemain di HP berbeda saling lihat di map yang sama.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"kaniku-multiplayer","scripts":{"start":"node server.js"},"version":"1.0.0"}
